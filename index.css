@@ -1,0 +1,16 @@
+.content{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	align-items: center;
+}
+.content_photo img{
+	width: 480px;
+	height: 600px;
+}
+.header_text{
+	font-size: 24px;
+}
+.content_text{
+	font-size: 18px;
+}
